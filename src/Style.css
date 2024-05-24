@@ -1,0 +1,251 @@
+/* NAV BAR */
+.container-fluid-nav {
+    background-color: green;
+    padding: 16px 32px;
+    display: flex;
+    justify-content: end;
+}
+
+.container-fluid-nav a {
+    color:white;
+    margin-right: 16px;
+    text-decoration: none;
+  
+}
+
+.container-fluid-nav a.active {
+    font-weight: 600;
+}
+
+div a:hover {
+    text-decoration:white underline;
+}
+
+a {
+    margin-right: 16px;
+    font-style: italic;
+}
+
+/* HOME PAGE */
+.home {
+    padding-top: 200px;
+    padding-left: 570px;
+    background-color: lightgreen;
+    font-family: cursive;
+    height: 480px;
+}
+
+.h1 {
+    margin-left: 150px;
+}
+
+.btn {
+    border-color: greenyellow;
+    background-color: green;
+    border-radius: 7px;
+    margin-left: 200px;
+    height: 30px;
+    width: 50px;
+}
+
+/* USER PAGE */
+.user {
+    padding-top: 100px;
+    padding-left: 600px;
+    background-color: lightgreen;
+    height: 600px;
+}
+
+.inp1 {
+    border-radius: 7px;
+    border-style: hidden;
+    background-color: white;
+}
+
+.label {
+    margin-left: 50px;
+    font-family: cursive;
+    font-weight: 500;
+}
+
+.btn1 {
+    border-color: red;
+    background-color: green;
+    border-radius: 7px;
+    margin-left: 55px;
+}
+
+.select {
+    padding-left: 40px;
+    border-radius: 7px;
+    width: 170px;
+}
+
+.twowheeler {
+    background-color: lightgreen;
+    padding-left: 30px;
+}
+.head5{
+    padding-left: 650px;
+}
+
+.btn5 {
+    background-color: green;
+    height: 30px;
+    border-radius: 7px;
+    margin-left: 650px;
+}
+.title{
+    font-style: italic;
+}
+.form1{
+    background-color:transparent;
+    height: 400px;
+    width: 400px;
+}
+.label5{
+    padding-left: 150px;
+}
+.inp6{
+    width: 200px;
+    margin-left: 100px;
+    border-radius: 7px;
+    border-style: hidden;
+}
+.btn6{
+    margin-left: 160px;
+    margin-top: 40px;
+    border-radius: 7px;
+    background-color: green;
+    border-color: goldenrod;
+}
+/* ABOUT PAGE */
+.about {
+    background-color:lightgreen;
+}
+
+.heading {
+
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
+.head {
+    font-weight: bolder;
+    font-style: italic;
+   
+}
+
+.head1 {
+    font-style: italic;
+    display: flex;
+
+}
+
+.about1 {
+    display: flex;
+}
+
+
+/* CONTACT US */
+.contactus {
+    background-color: lightgreen;
+    height: 600px;
+    padding-top: 100px;
+}
+.contact-us{
+    display: flex;
+    justify-content: center;
+}
+
+.contact1 {
+    margin-right: 150px;
+}
+
+.contact2 {
+    height: 400px;
+    width: 400px;
+    margin-left: 250px;
+}
+.contact3{
+    padding-left: 450px;
+}
+
+.inp2 {
+    text-decoration: none;
+}
+
+.inp3 {
+    border-radius: 5px;
+    border-style: hidden;
+
+}
+
+.btn2 {
+    background-color: green;
+    border-color: goldenrod;
+    border-radius: 7px;
+    margin-left: 55px;
+}
+
+.label1 {
+    padding-left: 50px;
+    font-family: cursive;
+    font-weight: 400;
+}
+
+.inp5 {
+    border-radius: 7px;
+    border-style: hidden;
+}
+
+.btn4 {
+    border-radius: 7px;
+    border-style: hidden;
+    background-color: green;
+    border-color: goldenrod;
+}
+
+/* ADMIN PAGE */
+.admin {
+    padding-top: 200px;
+    padding-left: 700px;
+    background-color: burlywood;
+    height: 600px;
+}
+
+.label2 {
+    font-family: cursive;
+    padding-left: 50px;
+}
+
+.inp4 {
+    border-radius: 7px;
+    border-style: hidden;
+}
+
+.btn3 {
+    background-color: green;
+    border-color: goldenrod;
+    border-radius: 7px;
+    margin-left: 55px;
+}
+
+/* BOOKING */
+
+.booking{
+    background-color: lightgreen;
+    height: 680px;   
+}
+.bh1{
+    padding-left: 480px;
+    padding-top: 300px;
+}
+
+/* ADMIN PAGE */
+.admin{
+    background-color: lightgreen;
+    height: 480px;
+}

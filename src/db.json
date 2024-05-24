@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "Adam",
+      "mobile number": "1234567890",
+      "email": "abc@gmail.com",
+      "vehicle number": "TN 47 B 4557",
+      "wheeler": "Two-wheeler",
+      "id": "940d"
+    }
+  ]
+}
